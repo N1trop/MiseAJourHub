@@ -1,0 +1,7 @@
+# Démineur - Changelog
+
+## v1.0 (14/02/2025)
+- 🚀 Première version du Démineur.
+- 🎨 Ajout des textures herbe/terre.
+- 💣 Implémentation des bombes et du système de jeu.
+- Vraiment tout ce qui et basique au jeu en lui même
