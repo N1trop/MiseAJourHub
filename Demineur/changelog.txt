@@ -5,3 +5,9 @@
 - 🎨 Ajout des textures herbe/terre.
 - 💣 Implémentation des bombes et du système de jeu.
 - Vraiment tout ce qui et basique au jeu en lui même
+
+
+## v1.1 (20/02/2025)
+- Ajout d'une UI pour menu principal, avec boutons JOUER et QUITTER de fonctionnel
+- Ajout d'une UI pour écran défaite, avec boutons REJOUER et MENU PRINCIPAL de fonctionnel
+- Ajout d'une UI pour écran victoire, avec boutons REESSAYER et MENU PRINCIPAL de fonctionnel
