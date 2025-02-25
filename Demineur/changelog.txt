@@ -11,3 +11,9 @@
 - Ajout d'une UI pour menu principal, avec boutons JOUER et QUITTER de fonctionnel
 - Ajout d'une UI pour écran défaite, avec boutons REJOUER et MENU PRINCIPAL de fonctionnel
 - Ajout d'une UI pour écran victoire, avec boutons REESSAYER et MENU PRINCIPAL de fonctionnel
+
+
+## v1.2 (25/02/2025)
+- Ajout d'une UI pour options afin de choisir une difficulté de grille
+- Mise à jour UI pour correspondre Style et couleur
+- Ajout Titre sur Menu Principal
