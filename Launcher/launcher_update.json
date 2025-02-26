@@ -1,5 +1,9 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/N1trop/MiseAJourHub/raw/main/Launcher_1.1.0.zip",
-  "releaseNotes": "Ceci est une version de test pour vérifier le système de mise à jour"
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/N1trop/MiseAJourHub/tree/main/Launcher/releases/Launcher_1.0.zip",
+  "releaseNotes": "- Amélioration de l'interface utilisateur\n- Correction de bugs lors du téléchargement des jeux\n- Support des mises à jour automatiques",
+  "sizeInBytes": 105472000,
+  "releaseDate": "2025-02-26",
+  "minimumVersion": "1.0.0",
+  "requiredUpdate": true
 }
