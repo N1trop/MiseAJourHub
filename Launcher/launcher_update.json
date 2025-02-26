@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.0",
   "downloadUrl": "https://github.com/N1trop/MiseAJourHub/tree/main/Launcher/releases/Launcher_1.0.zip",
   "releaseNotes": "- Amélioration de l'interface utilisateur\n- Correction de bugs lors du téléchargement des jeux\n- Support des mises à jour automatiques",
   "sizeInBytes": 105472000,
